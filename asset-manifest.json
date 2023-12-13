@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/GithubPages/static/css/main.63ffa884.css",
-    "main.js": "/GithubPages/static/js/main.fcf8bca0.js",
+    "main.js": "/GithubPages/static/js/main.e81f9762.js",
     "static/media/nosql.png": "/GithubPages/static/media/nosql.5cf797ac14232fe0a650.png",
     "static/media/xray.png": "/GithubPages/static/media/xray.331a86de9c5224d38045.png",
     "static/media/new_orleans.jpg": "/GithubPages/static/media/new_orleans.ab439fe62f6e91c327ba.jpg",
     "static/media/nbdev.png": "/GithubPages/static/media/nbdev.4e6dcf1321f7e4856e2e.png",
-    "static/media/hero-light.jpg": "/GithubPages/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "static/media/los_angeles.jpg": "/GithubPages/static/media/los_angeles.7250e64b6327475a1e2d.jpg",
     "service-worker.js": "/GithubPages/service-worker.js",
     "static/media/GH.svg": "/GithubPages/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
     "static/media/data-analysis-svgrepo-com.svg": "/GithubPages/static/media/data-analysis-svgrepo-com.0ceae48d3347c9de71da23d589c27039.svg",
@@ -14,10 +14,10 @@
     "static/media/logo.svg": "/GithubPages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/GithubPages/index.html",
     "main.63ffa884.css.map": "/GithubPages/static/css/main.63ffa884.css.map",
-    "main.fcf8bca0.js.map": "/GithubPages/static/js/main.fcf8bca0.js.map"
+    "main.e81f9762.js.map": "/GithubPages/static/js/main.e81f9762.js.map"
   },
   "entrypoints": [
     "static/css/main.63ffa884.css",
-    "static/js/main.fcf8bca0.js"
+    "static/js/main.e81f9762.js"
   ]
 }
