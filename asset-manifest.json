@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GithubPages/static/css/main.63ffa884.css",
-    "main.js": "/GithubPages/static/js/main.be93517a.js",
+    "main.js": "/GithubPages/static/js/main.925b14ae.js",
     "static/media/minutemaidpark.png": "/GithubPages/static/media/minutemaidpark.66282dd099773745dd30.png",
     "static/media/nosql.png": "/GithubPages/static/media/nosql.5cf797ac14232fe0a650.png",
     "static/media/xray.png": "/GithubPages/static/media/xray.331a86de9c5224d38045.png",
@@ -17,6 +17,7 @@
     "static/media/plomosas.jpeg": "/GithubPages/static/media/plomosas.42bac55fede291b2e237.jpeg",
     "static/media/houston.jpeg": "/GithubPages/static/media/houston.373bfcb7b2ec36ef1edc.jpeg",
     "static/media/marina.jpeg": "/GithubPages/static/media/marina.3929b1f6e28346b59aa2.jpeg",
+    "static/media/olimpiada.jpeg": "/GithubPages/static/media/olimpiada.d62eb0ec9d9b4c9ca578.jpeg",
     "static/media/sax.jpeg": "/GithubPages/static/media/sax.ffe0ba05fc2efe175a5d.jpeg",
     "service-worker.js": "/GithubPages/service-worker.js",
     "static/media/GH.svg": "/GithubPages/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
@@ -26,10 +27,10 @@
     "static/media/github.svg": "/GithubPages/static/media/github.fbaf00d57d70ecbe492b7673f99bff5d.svg",
     "index.html": "/GithubPages/index.html",
     "main.63ffa884.css.map": "/GithubPages/static/css/main.63ffa884.css.map",
-    "main.be93517a.js.map": "/GithubPages/static/js/main.be93517a.js.map"
+    "main.925b14ae.js.map": "/GithubPages/static/js/main.925b14ae.js.map"
   },
   "entrypoints": [
     "static/css/main.63ffa884.css",
-    "static/js/main.be93517a.js"
+    "static/js/main.925b14ae.js"
   ]
 }
