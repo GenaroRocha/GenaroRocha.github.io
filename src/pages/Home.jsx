@@ -9,6 +9,9 @@ import Projects from "../components/Projects";
 import Contact from "../components/Contact";
 import { BackToTop } from "../components/globalStyledComponents";
 import Footer from "../components/Footer";
+import Interests from "../components/Interests";
+import Accomplishments from "../components/Accomplishments";
+import Blog from "../components/Blog";
 
 export default function Home() {
   const { name } = useSelector(selectData);
@@ -26,7 +29,10 @@ export default function Home() {
       <main>
         <AboutMe />
         <Skills />
+        <Interests />
         <Projects />
+        <Accomplishments />
+        <Blog />
         <Contact />
       </main>
       <BackToTop home={"Home"} />
