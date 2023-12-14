@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GithubPages/static/css/main.63ffa884.css",
-    "main.js": "/GithubPages/static/js/main.4328c9d7.js",
+    "main.js": "/GithubPages/static/js/main.6554b08c.js",
     "static/media/minutemaidpark.png": "/GithubPages/static/media/minutemaidpark.66282dd099773745dd30.png",
     "static/media/nosql.png": "/GithubPages/static/media/nosql.5cf797ac14232fe0a650.png",
     "static/media/xray.png": "/GithubPages/static/media/xray.331a86de9c5224d38045.png",
@@ -22,10 +22,10 @@
     "static/media/github.svg": "/GithubPages/static/media/github.fbaf00d57d70ecbe492b7673f99bff5d.svg",
     "index.html": "/GithubPages/index.html",
     "main.63ffa884.css.map": "/GithubPages/static/css/main.63ffa884.css.map",
-    "main.4328c9d7.js.map": "/GithubPages/static/js/main.4328c9d7.js.map"
+    "main.6554b08c.js.map": "/GithubPages/static/js/main.6554b08c.js.map"
   },
   "entrypoints": [
     "static/css/main.63ffa884.css",
-    "static/js/main.4328c9d7.js"
+    "static/js/main.6554b08c.js"
   ]
 }
